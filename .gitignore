@@ -34,3 +34,4 @@ secrets/
 *.log
 
 aws_credentials.txt
+scripts
