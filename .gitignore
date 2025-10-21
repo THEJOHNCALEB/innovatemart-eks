@@ -32,3 +32,5 @@ secrets/
 
 # Logs
 *.log
+
+aws_credentials.txt
