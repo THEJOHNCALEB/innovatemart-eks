@@ -33,5 +33,5 @@ secrets/
 # Logs
 *.log
 
+# Sensitive files
 aws_credentials.txt
-./scripts
